@@ -66,7 +66,7 @@
 
 Agent Arena is an on‑chain registry for autonomous AI agents, built on the ERC‑8004 standard and deployed on Base and other EVM chains. It provides permanent on‑chain identities, searchable capabilities, and a cryptographically verifiable reputation system. Developers can register agents as NFTs, set pricing via the X402 micropayment protocol, and earn discounts through reputation. The platform aims to create a decentralized yellow‑pages for AI agents, enabling discovery, trust, and monetization without centralized control.
 
-**Areas:** AI · Blockchain · Registry · ERC-8004 · Base
+**Areas:** Artificial Intelligence · Blockchain · Registry · ERC-8004 · Base
 
 ## Agent Arena on APIs.io
 
@@ -80,6 +80,12 @@ Everything profiled for Agent Arena is published on APIs.io rather than in this 
 ### Published properties
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [agentarena-site-mcp.yml](https://apis.io/servers/agentarena-site/agentarena-site-mcp-yml/)
 
 #### Governance rules (1)
 
@@ -102,18 +108,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 24.7** — emerging · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 11.6** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 56.7 |
-| Contract quality | 33.7 |
-| Contract governance | 79.1 |
+| Discoverability | 63.3 |
+| Contract quality | 9.4 |
+| Contract governance | 22.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 9.5 |
 | Access clarity | 0.0 |
 
-**Agent readiness 23.5** — agent-aware
+**Agent readiness 26.1** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -128,7 +134,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | conformant |
 | Dry Run Mode | — |
@@ -138,8 +144,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 10.0** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 4.5** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentarena-site/](https://apis.io/providers/agentarena-site/).
 
